@@ -1,0 +1,3 @@
+[submodule "packages/ui-components"]
+	path = packages/ui-components
+	url = https://github.com/suj-ai/design-system.git
