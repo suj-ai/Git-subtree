@@ -1,0 +1,3 @@
+[submodule "nitrogen-translator"]
+	path = nitrogen-translator
+	url = https://github.com/suj-ai/nitrogen-translator.git
